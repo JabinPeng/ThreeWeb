@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.clearfix:after{
+    content:".";
+    clear:both;
+    display:block;
+    height:0;
+    overflow:hidden;
+    visibility:hidden;
+}
+.clearfix{
+    zoom:1;
+}
+a{
+    text-decoration: none;
+    color: #666;
+}
+input:focus,textarea:focus,button:focus,select:focus{
+    outline:none;
+}
+ul,ol{
+    list-style: none;
+}
+
+img{
+    vertical-align:middle;
+}
+input,select,textarea,button{
+    color: inherit;
+    font-family: inherit;
+}
+html{
+    font-size:14px;
+
+}
+.w1200{
+    width:1200px;
+    margin:0 auto;
+}
+
