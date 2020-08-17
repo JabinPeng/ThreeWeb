@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="348px" height="152px" viewBox="0 0 348 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>LSV_LI</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板备份" transform="translate(-1599.000000, -766.000000)">
+            <g id="LSV_LI" transform="translate(1599.000000, 766.000000)">
+                <path d="M348,152 C348,68.052718 279.947282,0 196,0 C112.052718,0 44,68.052718 44,152 C152.236744,152 253.080606,152 348,152 Z" id="椭圆形" fill="#5272FF"></path>
+                <circle id="椭圆形" fill="#FFFFFF" cx="79.5" cy="127.5" r="12.5"></circle>
+                <path d="M0,50 C19.882251,50 36,66.117749 36,86 L36,152 L36,152 C16.117749,152 2.4348735e-15,135.882251 0,116 L0,50 L0,50 Z" id="矩形" fill="#5272FF"></path>
+                <text id="SV" font-family="Vivian" font-size="120" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="106" y="140">SV</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
