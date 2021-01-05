@@ -1,6 +1,6 @@
 ## 💌 Three Web
 
-> 项目地址：[http://zpzpup.com/peng/blog]
+> 项目地址：[http://zpzpup.com/peng/threeweb]
 
 >> 项目需要放到环境中启动 打开index.html 即可访问，因为考虑前端框架很多，因此iframe标签嵌套形式在项目中会更好，在目前主流的前端框架中，只需要把3D项目放到public中访问即可。
 
@@ -13,7 +13,7 @@
 ## 🏠 项目截图
 
 <p align="center">
-  <img width="900" src="http://www.zpzpup.com/assets/image/blog1.png">
+  <img width="900" src="http://www.zpzpup.com/assets/image/dxxd.png">
 </p>
 
 后续还会继续更新模型和代码~ 更新++++++++++
