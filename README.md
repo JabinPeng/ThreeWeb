@@ -2,7 +2,11 @@
 
 > 项目地址：[http://zpzpup.com/peng/threeweb]
 
->> 项目需要放到环境中启动 打开index.html 即可访问，因为考虑前端框架很多，因此iframe标签嵌套形式在项目中会更好，在目前主流的前端框架中，只需要把3D项目放到public中访问即可。
+> 项目需要放到环境中启动 打开index.html 即可访问，因为考虑前端框架很多，因此iframe标签嵌套形式在项目中会更好，在目前主流的前端框架中，只需要把3D项目放到public中访问即可。
+
+百度网盘下载地址：
+
+>https://pan.baidu.com/s/1Ny0tutOK5UfGcJBznRUSXg  提取码：gktn
 
 > 技术站: Jquery three 
 
