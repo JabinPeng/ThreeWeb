@@ -1,0 +1,28 @@
+## 💌 Three Web
+
+> 项目地址：[http://zpzpup.com/peng/blog]
+
+>> 项目需要放到环境中启动 打开index.html 即可访问，因为考虑前端框架很多，因此iframe标签嵌套形式在项目中会更好，在目前主流的前端框架中，只需要把3D项目放到public中访问即可。
+
+> 技术站: Jquery three 
+
+## 📢 说明
+
+***放到开头，这里重点说明下，大家如果有啥问题咱就直接提‘lssues’吧，后面朋友遇到相同问题大家也可以参考***
+
+## 🏠 项目截图
+
+<p align="center">
+  <img width="900" src="http://www.zpzpup.com/assets/image/blog1.png">
+</p>
+
+后续还会继续更新模型和代码~ 更新++++++++++
+
+
+喜欢的可以点个 ⭐ star 感激不尽 😁😁😁
+
+
+
+
+
+
