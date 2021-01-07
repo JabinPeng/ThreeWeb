@@ -1,6 +1,6 @@
 ## 💌 Three Web
 
-> 项目地址：[http://zpzpup.com/threeweb]
+> 项目地址：[http://www.zpzpup.com/threeweb]
 
 > 项目需要放到环境中启动 打开index.html 即可访问，因为考虑前端框架很多，因此iframe标签嵌套形式在项目中会更好，在目前主流的前端框架Vue、React、Angular等等都可使用，只需要把3D项目放到public中，可以使用cdn加载，也可以使用ssr加载，提高用户体验度。
 
