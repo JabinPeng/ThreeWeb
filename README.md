@@ -20,7 +20,7 @@
   <img width="900" src="http://www.zpzpup.com/assets/image/dxxd.png">
 </p>
 
-后续还会继续更新模型和代码~ 更新+++++++++++
+后续还会继续更新模型和代码~ 更新++++++++++
 
 
 喜欢的可以点个 ⭐ star 感激不尽 😁😁😁
